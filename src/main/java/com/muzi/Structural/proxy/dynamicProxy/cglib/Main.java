@@ -1,6 +1,5 @@
 package com.muzi.Structural.proxy.dynamicProxy.cglib;
 
-import com.muzi.Creational.builder.Person;
 import org.springframework.cglib.proxy.Enhancer;
 
 public class Main {
